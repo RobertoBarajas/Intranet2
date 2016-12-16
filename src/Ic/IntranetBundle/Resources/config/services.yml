@@ -1,0 +1,4 @@
+services:
+#    ic_intranet.example:
+#        class: Ic\IntranetBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
